@@ -1,1 +1,1 @@
-# -Teeramate-Kantima-ooca-full-stack-test
+# Teeramate-Kantima-ooca-full-stack-test
