@@ -8,7 +8,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test:single": "npx jest test/standard.test.js --runInBand"
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:ci": "jest --runInBand"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
